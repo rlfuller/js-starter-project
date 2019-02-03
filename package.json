@@ -1,0 +1,22 @@
+{
+  "name": "js-starter",
+  "version": "1.0.0",
+  "description": "JS Web development starter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlfuller/js-starter-kit.git"
+  },
+  "author": "Rachel Fuller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlfuller/js-starter-kit/issues"
+  },
+  "homepage": "https://github.com/rlfuller/js-starter-kit#readme",
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
